@@ -2,9 +2,9 @@
 
 [![PyPI - Version](https://img.shields.io/pypi/v/config-extensions.svg)](https://pypi.org/project/config-extensions)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/config-extensions.svg)](https://pypi.org/project/config-extensions)
-[![GitHub - Lint](https://github.com/0x6f677548/python-config-extensions/actions/workflows/lint.yml/badge.svg)](https://github.com/0x6f677548/python-config-extensions/actions/workflows/lint.yml)
-[![GitHub - Test](https://github.com/0x6f677548/python-config-extensions/actions/workflows/test.yml/badge.svg)](https://github.com/0x6f677548/python-config-extensions/actions/workflows/test.yml)
-[![GitHub Super-Linter](https://github.com/0x6f677548/python-config-extensions/actions/workflows/lint-super-linter-all-codebase.yml/badge.svg)](https://github.com/0x6f677548/python-config-extensions/actions/workflows/lint-super-linter-all-codebase.yml)
+[![GitHub - Lint](https://go.hugobatista.com/gh/python-config-extensions/actions/workflows/lint.yml/badge.svg)](https://go.hugobatista.com/gh/python-config-extensions/actions/workflows/lint.yml)
+[![GitHub - Test](https://go.hugobatista.com/gh/python-config-extensions/actions/workflows/test.yml/badge.svg)](https://go.hugobatista.com/gh/python-config-extensions/actions/workflows/test.yml)
+[![GitHub Super-Linter](https://go.hugobatista.com/gh/python-config-extensions/actions/workflows/lint-super-linter-all-codebase.yml/badge.svg)](https://go.hugobatista.com/gh/python-config-extensions/actions/workflows/lint-super-linter-all-codebase.yml)
 
 -----
 

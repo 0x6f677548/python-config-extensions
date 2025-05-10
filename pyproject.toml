@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "0x6f677548 (Hugo Batista)"},
+  { name = "Hugo Batista"},
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/0x6f677548/python-config-extensions#readme"
-Issues = "https://github.com/0x6f677548/python-config-extensions/issues"
-Source = "https://github.com/0x6f677548/python-config-extensions"
+Documentation = "https://go.hugobatista.com/gh/python-config-extensions#readme"
+Issues = "https://go.hugobatista.com/gh/python-config-extensions/issues"
+Source = "https://go.hugobatista.com/gh/python-config-extensions"
 
 [tool.hatch.version]
 path = "src/config_extensions/__about__.py"
